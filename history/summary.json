@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
     "time": 639,
-    "timeDay": 452,
-    "timeWeek": 582,
-    "timeMonth": 578,
+    "timeDay": 613,
+    "timeWeek": 606,
+    "timeMonth": 585,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2024-11-23": 26,
@@ -42,5 +42,23 @@
       "2024-04-23": 15,
       "2024-04-22": 3
     }
+  },
+  {
+    "name": "Wakapi",
+    "url": "https://wakapi.sbite0138.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/wakapi.sbite0138.net.ico",
+    "slug": "wakapi",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
+    "dailyMinutesDown": {}
   }
 ]
