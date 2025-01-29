@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Misskey
     url: https://misskey.sbite0138.net/
+  - name: Wakapi
+    url: https://wakapi.sbite0138.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
