@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.sbite0138.net.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "98.67%",
+    "uptimeYear": "98.68%",
     "time": 626,
-    "timeDay": 674,
-    "timeWeek": 536,
+    "timeDay": 606,
+    "timeWeek": 558,
     "timeMonth": 547,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -42,8 +42,7 @@
       "2024-05-11": 103,
       "2024-04-26": 491,
       "2024-04-25": 540,
-      "2024-04-24": 22,
-      "2024-04-23": 15
+      "2024-04-24": 22
     }
   },
   {
@@ -58,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 604,
-    "timeWeek": 528,
-    "timeMonth": 550,
+    "timeDay": 558,
+    "timeWeek": 544,
+    "timeMonth": 548,
     "timeYear": 559,
     "dailyMinutesDown": {}
   }
