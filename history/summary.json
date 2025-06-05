@@ -42,17 +42,19 @@
     "url": "https://wakapi.sbite0138.net/",
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.sbite0138.net.ico",
     "slug": "wakapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 504,
-    "timeWeek": 555,
-    "timeMonth": 571,
-    "timeYear": 567,
-    "dailyMinutesDown": {}
+    "time": 618,
+    "timeDay": 3841,
+    "timeWeek": 1383,
+    "timeMonth": 777,
+    "timeYear": 618,
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   }
 ]
