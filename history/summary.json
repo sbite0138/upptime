@@ -4,17 +4,17 @@
     "url": "https://misskey.sbite0138.net/",
     "icon": "https://icons.duckduckgo.com/ip3/misskey.sbite0138.net.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 606,
-    "timeDay": 586,
-    "timeWeek": 598,
-    "timeMonth": 605,
-    "timeYear": 580,
+    "timeDay": 347,
+    "timeWeek": 537,
+    "timeMonth": 589,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-11-01": 107,
       "2025-11-18": 20,
@@ -22,7 +22,8 @@
       "2026-02-09": 25,
       "2026-03-12": 28,
       "2026-05-08": 33,
-      "2026-05-15": 36
+      "2026-05-15": 36,
+      "2026-10-22": 0
     }
   },
   {
@@ -31,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wakapi.sbite0138.net.ico",
     "slug": "wakapi",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "51.91%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.72%",
+    "uptimeDay": "47.12%",
+    "uptimeWeek": "92.45%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "99.53%",
     "time": 573,
     "timeDay": 234,
     "timeWeek": 453,
@@ -48,7 +49,7 @@
       "2026-07-22": 923,
       "2026-07-21": 715,
       "2026-10-21": 647,
-      "2026-10-22": 46
+      "2026-10-22": 115
     }
   }
 ]
